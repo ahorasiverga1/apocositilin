@@ -403,6 +403,7 @@
   },
   "enderioconduits:root": {
     "criteria": {
+      "inv_changed-enderio:gravel": "2025-06-18 02:06:17 +0000",
       "inv_changed-enderio:sand": "2025-06-18 01:42:09 +0000"
     },
     "done": false
@@ -410,6 +411,12 @@
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:shark_target_player": {
+    "criteria": {
+      "targeted": "2025-06-18 02:12:43 +0000"
     },
     "done": true
   },
@@ -1138,6 +1145,7 @@
     "criteria": {
       "ice_flats": "2025-06-18 01:42:11 +0000",
       "frozen_river": "2025-06-18 01:42:20 +0000",
+      "deep_ocean": "2025-06-18 02:13:26 +0000",
       "beaches": "2025-06-18 01:41:28 +0000",
       "desert_hills": "2025-06-18 01:57:02 +0000",
       "ice_mountains": "2025-06-18 01:42:32 +0000",
@@ -1259,6 +1267,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2025-06-18 02:06:08 +0000"
     },
     "done": true
   },
@@ -2633,6 +2647,12 @@
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:jellyfish_sting": {
+    "criteria": {
+      "jellyfish_sting": "2025-06-18 02:13:12 +0000"
     },
     "done": true
   },
