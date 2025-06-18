@@ -403,7 +403,8 @@
   },
   "enderioconduits:root": {
     "criteria": {
-      "inv_changed-enderio:gravel": "2025-06-18 21:45:27 +0000"
+      "inv_changed-enderio:gravel": "2025-06-18 21:45:27 +0000",
+      "inv_changed-enderio:sand": "2025-06-18 22:01:12 +0000"
     },
     "done": false
   },
@@ -643,8 +644,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2025-06-18 22:04:33 +0000",
       "zombie": "2025-06-18 20:56:46 +0000",
-      "spider": "2025-06-18 20:56:45 +0000"
+      "spider": "2025-06-18 20:56:45 +0000",
+      "creeper": "2025-06-18 22:01:56 +0000"
     },
     "done": false
   },
@@ -1729,6 +1732,7 @@
     "criteria": {
       "cooked_mutton": "2025-06-18 20:57:07 +0000",
       "rotten_flesh": "2025-06-17 23:15:38 +0000",
+      "cooked_salmon": "2025-06-18 22:07:52 +0000",
       "carrot": "2025-06-17 23:17:47 +0000"
     },
     "done": false
