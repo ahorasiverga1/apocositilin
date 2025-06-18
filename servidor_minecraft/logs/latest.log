@@ -2149,3 +2149,37 @@ java.nio.file.NoSuchFileException: /assets/structurize/schematics
 [21:01:30] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to moltgames
 [21:08:27] [Server thread/INFO] [Astral Sorcery]: Load CachedWorldData 'structures' for world 0
 [21:08:27] [Server thread/INFO] [Astral Sorcery]: Loading of 'structures' for world 0 finished.
+[21:09:41] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [1, 156] in dimension 0 (overworld) while populating chunk [-1, 156], causing cascading worldgen lag.
+[21:09:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:09:41] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [0, 156] in dimension 0 (overworld) while populating chunk [-1, 156], causing cascading worldgen lag.
+[21:09:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:12:00] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [11, 143] in dimension 0 (overworld) while populating chunk [11, 142], causing cascading worldgen lag.
+[21:12:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:12:24] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [17, 134] in dimension 0 (overworld) while populating chunk [17, 133], causing cascading worldgen lag.
+[21:12:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:12:28] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [18, 133] in dimension 0 (overworld) while populating chunk [18, 132], causing cascading worldgen lag.
+[21:12:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:12:32] [Server thread/WARN] [FML]: Quark loaded a new chunk [19, 148] in dimension 0 (overworld) while populating chunk [19, 147], causing cascading worldgen lag.
+[21:12:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:12:32] [Server thread/WARN] [FML]: Quark loaded a new chunk [20, 147] in dimension 0 (overworld) while populating chunk [19, 147], causing cascading worldgen lag.
+[21:12:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:12:32] [Server thread/WARN] [FML]: Quark loaded a new chunk [20, 148] in dimension 0 (overworld) while populating chunk [19, 147], causing cascading worldgen lag.
+[21:12:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:12:49] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [23, 145] in dimension 0 (overworld) while populating chunk [22, 145], causing cascading worldgen lag.
+[21:12:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:13:08] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [23, 139] in dimension 0 (overworld) while populating chunk [23, 140], causing cascading worldgen lag.
+[21:13:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:13:11] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [24, 148] in dimension 0 (overworld) while populating chunk [24, 146], causing cascading worldgen lag.
+[21:13:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:13:11] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [24, 147] in dimension 0 (overworld) while populating chunk [24, 146], causing cascading worldgen lag.
+[21:13:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:13:14] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [7, 128] in dimension 0 (overworld) while populating chunk [8, 128], causing cascading worldgen lag.
+[21:13:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:13:17] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [25, 148] in dimension 0 (overworld) while populating chunk [25, 147], causing cascading worldgen lag.
+[21:13:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:13:23] [Server thread/WARN] [FML]: Quark loaded a new chunk [27, 137] in dimension 0 (overworld) while populating chunk [26, 137], causing cascading worldgen lag.
+[21:13:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:13:23] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [26, 142] in dimension 0 (overworld) while populating chunk [26, 141], causing cascading worldgen lag.
+[21:13:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:14:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Spectator Mode]
+[21:14:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Survival Mode]
