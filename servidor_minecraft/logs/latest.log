@@ -3047,3 +3047,5 @@ Zero CORE: Requires version 1.12.2-0.1.2.9 but mod is not found on client.
 [22:09:21] [Server thread/INFO] [XAT]: Syncing Config to moltgames
 [22:09:21] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for moltgames...
 [22:09:21] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to moltgames
+[22:17:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: moltgames lost connection: Disconnected
+[22:17:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames left the game
