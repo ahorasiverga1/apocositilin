@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "enderioconduits:root": {
+    "criteria": {
+      "inv_changed-enderio:sand": "2025-06-18 01:42:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
@@ -584,6 +590,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-06-18 01:37:36 +0000"
     },
     "done": true
   },
@@ -1111,6 +1123,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2025-06-18 01:42:11 +0000",
+      "frozen_river": "2025-06-18 01:42:20 +0000",
+      "beaches": "2025-06-18 01:41:28 +0000",
+      "ice_mountains": "2025-06-18 01:42:32 +0000",
+      "cold_beach": "2025-06-18 01:42:17 +0000",
       "river": "2025-06-18 01:28:31 +0000"
     },
     "done": false
@@ -1643,6 +1660,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-06-18 01:37:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
@@ -2009,6 +2032,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 01:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
@@ -2294,6 +2323,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-18 01:36:43 +0000"
     },
     "done": true
   },

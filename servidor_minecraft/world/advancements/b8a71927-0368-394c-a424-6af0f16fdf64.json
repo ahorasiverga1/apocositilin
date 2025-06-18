@@ -1118,7 +1118,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2025-06-17 23:04:53 +0000",
+      "taiga_cold_hills": "2025-06-18 01:42:41 +0000",
+      "forest": "2025-06-18 01:43:34 +0000",
+      "extreme_hills_with_trees": "2025-06-18 01:39:33 +0000",
+      "plains": "2025-06-18 01:42:49 +0000",
       "ice_mountains": "2025-06-17 23:05:43 +0000",
+      "taiga_cold": "2025-06-18 01:40:11 +0000",
+      "extreme_hills": "2025-06-18 01:39:27 +0000",
       "river": "2025-06-17 23:15:41 +0000"
     },
     "done": false
@@ -2315,6 +2321,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-06-17 23:04:52 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:visit_shrine": {
+    "criteria": {
+      "criteria_0": "2025-06-18 01:42:41 +0000"
     },
     "done": true
   },
