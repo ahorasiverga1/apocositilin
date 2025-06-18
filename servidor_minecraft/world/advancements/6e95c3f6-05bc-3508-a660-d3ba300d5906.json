@@ -503,6 +503,13 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-18 02:04:16 +0000",
+      "iron_helmet": "2025-06-18 02:04:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
@@ -833,6 +840,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/obelisks": {
+    "criteria": {
+      "criteria_0": "2025-06-18 01:56:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
@@ -1126,10 +1139,12 @@
       "ice_flats": "2025-06-18 01:42:11 +0000",
       "frozen_river": "2025-06-18 01:42:20 +0000",
       "beaches": "2025-06-18 01:41:28 +0000",
+      "desert_hills": "2025-06-18 01:57:02 +0000",
       "ice_mountains": "2025-06-18 01:42:32 +0000",
       "ocean": "2025-06-18 01:54:01 +0000",
       "cold_beach": "2025-06-18 01:42:17 +0000",
-      "river": "2025-06-18 01:28:31 +0000"
+      "river": "2025-06-18 01:28:31 +0000",
+      "desert": "2025-06-18 01:56:39 +0000"
     },
     "done": false
   },
@@ -1871,6 +1886,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-18 01:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
@@ -2138,6 +2159,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-06-18 02:00:27 +0000"
     },
     "done": true
   },
@@ -2642,6 +2669,12 @@
   "minecraft:recipes/building_blocks/nether_brick": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-18 02:00:00 +0000"
     },
     "done": true
   },
