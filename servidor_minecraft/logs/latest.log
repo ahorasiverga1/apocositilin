@@ -3049,3 +3049,18 @@ Zero CORE: Requires version 1.12.2-0.1.2.9 but mod is not found on client.
 [22:09:21] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to moltgames
 [22:17:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: moltgames lost connection: Disconnected
 [22:17:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames left the game
+[23:03:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: jysusxd123 lost connection: Disconnected
+[23:03:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jysusxd123 left the game
+[23:05:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[23:05:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:05:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:05:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[23:05:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[23:05:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[23:05:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
+[23:05:51] [Server thread/INFO] [FML]: Unloading dimension 0
+[23:05:51] [Server thread/INFO] [FML]: Unloading dimension -9999
+[23:05:51] [Server thread/INFO] [FML]: Unloading dimension 2
+[23:05:51] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:05:51] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:05:51] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
