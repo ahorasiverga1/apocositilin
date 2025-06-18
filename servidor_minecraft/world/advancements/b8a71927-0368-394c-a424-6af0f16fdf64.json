@@ -1287,6 +1287,18 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2025-06-18 21:50:01 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/throwables": {
+    "criteria": {
+      "criteria_0": "2025-06-18 21:53:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-06-17 23:04:52 +0000"
@@ -2273,6 +2285,12 @@
     },
     "done": true
   },
+  "ebwizardry:all_spells": {
+    "criteria": {
+      "ward": "2025-06-18 21:54:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_the_recipe": "2025-06-17 23:04:52 +0000"
@@ -2501,6 +2519,12 @@
     },
     "done": true
   },
+  "ebwizardry:discover_spell": {
+    "criteria": {
+      "criteria_0": "2025-06-18 21:54:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_the_recipe": "2025-06-17 23:04:52 +0000"
@@ -2534,6 +2558,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_the_recipe": "2025-06-17 23:04:52 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-06-18 21:53:00 +0000"
     },
     "done": true
   },
