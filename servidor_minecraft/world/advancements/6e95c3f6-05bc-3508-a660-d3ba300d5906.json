@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 02:17:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
@@ -477,6 +483,12 @@
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:goat_killed_player": {
+    "criteria": {
+      "goat_kill": "2025-06-18 02:16:51 +0000"
     },
     "done": true
   },
@@ -2017,6 +2029,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 02:17:44 +0000"
     },
     "done": true
   },
