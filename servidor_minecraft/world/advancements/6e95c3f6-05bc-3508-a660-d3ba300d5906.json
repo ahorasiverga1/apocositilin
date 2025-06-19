@@ -607,6 +607,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-06-19 02:18:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
@@ -663,7 +669,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "zombie": "2025-06-18 02:29:02 +0000"
+      "skeleton": "2025-06-19 02:07:31 +0000",
+      "zombie": "2025-06-18 02:29:02 +0000",
+      "enderman": "2025-06-19 02:20:02 +0000"
     },
     "done": false
   },
@@ -898,6 +906,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-06-19 02:16:58 +0000"
     },
     "done": true
   },
