@@ -3184,3 +3184,40 @@ java.nio.file.NoSuchFileException: /assets/structurize/schematics
 [02:48:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SiSoyAPA
 [02:49:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SiSoyAPA has made the advancement [Enchanter]
 [02:49:05] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SiSoyAPA
+[02:52:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Guiso_de_Posho was slain by SiSoyAPA
+[02:52:52] [Server thread/INFO] [tombstone]: The last known grave of Guiso_de_Posho is at location [name:Last Grave, x:-254, y:67, z:186] in the dimension 0
+[02:52:52] [Server thread/INFO] [tombstone]: Guiso_de_Posho has successfully been saved
+[02:52:57] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Guiso_de_Posho
+[02:53:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for jysusxd123
+[02:53:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for jysusxd123
+[02:53:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jysusxd123 has made the advancement [Knowledge of Death]
+[02:53:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for jysusxd123
+[02:53:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jysusxd123 has made the advancement [Funeral Theft]
+[02:53:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for jysusxd123
+[02:53:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SiSoyAPA was slain by jysusxd123
+[02:53:34] [Server thread/INFO] [tombstone]: The last known grave of SiSoyAPA is at location [name:Last Grave, x:-243, y:67, z:199] in the dimension 0
+[02:53:34] [Server thread/INFO] [tombstone]: SiSoyAPA has successfully been saved
+[02:53:43] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to SiSoyAPA
+[02:54:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for jysusxd123
+[02:54:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jysusxd123 has made the advancement [A Strange Grave's Dust]
+[02:54:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for jysusxd123
+[02:55:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jysusxd123 has made the advancement [Not Today, Thank You]
+[02:55:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for jysusxd123
+[02:56:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: jysusxd123 moved wrongly!
+[02:56:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SiSoyAPA has made the advancement [Ashes 'n Bones]
+[02:56:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SiSoyAPA
+[02:57:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Guiso_de_Posho was shot by Stray
+[02:57:00] [Server thread/INFO] [tombstone]: The last known grave of Guiso_de_Posho is at location [name:Last Grave, x:-243, y:67, z:166] in the dimension 0
+[02:57:00] [Server thread/INFO] [tombstone]: Guiso_de_Posho has successfully been saved
+[02:57:02] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Guiso_de_Posho
+[02:57:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:57:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:57:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:58:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for jysusxd123
+[02:58:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for jysusxd123
+[03:00:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SiSoyAPA has made the advancement [Vanishing]
+[03:00:02] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SiSoyAPA
+[03:00:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:00:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:01:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:01:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity

@@ -1,4 +1,10 @@
 {
+  "tombstone:tutorial/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-06-19 02:53:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-06-19 01:47:47 +0000"
@@ -8,6 +14,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-06-19 01:48:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-19 02:53:15 +0000"
     },
     "done": true
   },
@@ -38,6 +50,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-06-19 01:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-19 02:58:48 +0000"
     },
     "done": true
   },
@@ -95,6 +113,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2025-06-19 02:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-06-19 01:47:47 +0000"
@@ -143,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-19 02:53:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-06-19 01:47:47 +0000"
@@ -161,9 +191,21 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-19 02:55:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2025-06-19 02:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2025-06-19 02:58:48 +0000"
     },
     "done": true
   },
@@ -268,6 +310,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-06-19 01:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-06-19 02:53:15 +0000"
     },
     "done": true
   },
@@ -425,6 +473,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-06-19 02:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-06-19 01:48:13 +0000"
@@ -450,6 +504,7 @@
       "plains": "2025-06-19 01:47:47 +0000",
       "ice_mountains": "2025-06-19 02:44:03 +0000",
       "taiga_cold": "2025-06-19 02:35:06 +0000",
+      "ocean": "2025-06-19 02:55:58 +0000",
       "extreme_hills": "2025-06-19 01:49:28 +0000",
       "cold_beach": "2025-06-19 02:43:18 +0000",
       "river": "2025-06-19 02:37:39 +0000"
@@ -644,6 +699,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2025-06-19 02:58:03 +0000",
       "zombie": "2025-06-19 02:33:13 +0000"
     },
     "done": false
