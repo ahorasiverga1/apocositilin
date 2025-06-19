@@ -404,9 +404,10 @@
   "enderioconduits:root": {
     "criteria": {
       "inv_changed-enderio:gravel": "2025-06-18 21:45:27 +0000",
+      "inv_changed-enderio:clay": "2025-06-19 21:22:03 +0000",
       "inv_changed-enderio:sand": "2025-06-18 22:01:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
@@ -2291,7 +2292,8 @@
   },
   "ebwizardry:all_spells": {
     "criteria": {
-      "ward": "2025-06-18 21:54:51 +0000"
+      "ward": "2025-06-18 21:54:51 +0000",
+      "magic_missile": "2025-06-19 21:18:03 +0000"
     },
     "done": false
   },
