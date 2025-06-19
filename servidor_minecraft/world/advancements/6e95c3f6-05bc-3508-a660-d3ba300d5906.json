@@ -1754,6 +1754,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-06-19 03:33:48 +0000",
       "beef": "2025-06-18 02:46:39 +0000",
       "porkchop": "2025-06-18 02:46:27 +0000",
       "spider_eye": "2025-06-19 03:08:31 +0000",
@@ -2418,6 +2419,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:visit_shrine": {
+    "criteria": {
+      "criteria_0": "2025-06-19 03:39:28 +0000"
     },
     "done": true
   },
