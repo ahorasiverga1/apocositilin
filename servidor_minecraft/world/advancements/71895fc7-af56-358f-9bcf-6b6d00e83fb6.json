@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "ebwizardry:arcane_initiate": {
+    "criteria": {
+      "criteria_0": "2025-06-19 03:26:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-06-19 01:48:13 +0000"
@@ -119,6 +125,12 @@
     },
     "done": true
   },
+  "ebwizardry:find_library_ruins": {
+    "criteria": {
+      "surface": "2025-06-19 03:28:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-06-19 01:47:47 +0000"
@@ -182,6 +194,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-06-19 01:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-06-19 03:26:08 +0000"
     },
     "done": true
   },
@@ -260,6 +278,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-06-19 01:50:57 +0000",
+      "raw_salmon": "2025-06-19 03:28:18 +0000",
       "bread": "2025-06-19 02:36:48 +0000",
       "rotten_flesh": "2025-06-19 02:22:18 +0000"
     },
@@ -268,6 +287,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-06-19 01:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-19 03:26:39 +0000"
     },
     "done": true
   },
@@ -627,6 +652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-19 03:26:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-06-19 01:48:13 +0000"
@@ -672,6 +703,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-06-19 02:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-19 03:26:08 +0000"
     },
     "done": true
   },
@@ -765,6 +802,18 @@
   "cfm:root": {
     "criteria": {
       "tick": "2025-06-19 01:47:47 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:wizard_tower": {
+    "criteria": {
+      "criteria_0": "2025-06-19 03:24:47 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:anger_wizard": {
+    "criteria": {
+      "criteria_0": "2025-06-19 03:24:56 +0000"
     },
     "done": true
   },
