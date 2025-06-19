@@ -2158,3 +2158,5 @@ java.nio.file.NoSuchFileException: /assets/structurize/schematics
 [21:25:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [21:26:37] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-22, 174] in dimension 0 (overworld) while populating chunk [-21, 174], causing cascading worldgen lag.
 [21:26:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:32:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Creative Mode]
+[21:32:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Survival Mode]
