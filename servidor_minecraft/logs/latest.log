@@ -3221,3 +3221,50 @@ java.nio.file.NoSuchFileException: /assets/structurize/schematics
 [03:00:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [03:01:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [03:01:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:01:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jysusxd123 has made the advancement [Strange Steed]
+[03:01:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for jysusxd123
+[03:03:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: jysusxd123 lost connection: Disconnected
+[03:03:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jysusxd123 left the game
+[03:07:20] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[03:07:20] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 77 mods : astralsorcery@1.10.27,enderiointegrationforestry@5.3.72,cucumber@1.1.3,reachfix@1.1.3,jee@1.0.8,ebwizardry@4.3.14,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,endercore@1.12.2-0.5.78,ironjetpacks@1.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,appliedenergistics2@rv6-stable-7,artifacts@1.12.2-1.2.4,enderiointegrationticlate@5.3.72,betteranimalsplus@9.0.1,bookshelf@2.3.590,harvestcraft@1.12.2zb,foamfixcore@7.7.4,randompatches@1.12.2-1.22.1.10,xat@0.32.5,betterbuilderswands@0.13.2,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,enderioconduitsrefinedstorage@5.3.72,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,carryon@1.12.3,forge@14.23.5.2860,mysticalagradditions@1.3.2,bloodmagic@1.12.2-2.4.3-105,enderioconduits@5.3.72,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,mysticalagriculture@1.7.5,zerocore@1.12.2-0.1.2.9,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,tcomplement@1.12.2-0.4.3,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,torchmaster@1.8.5.0,powersuits@1.1.048,enderiomachines@5.3.72,jehc@1.7.2,immersiveengineering@0.12-98,baubles@1.5.2,ironfurnaces@1.3.5,numina@1.0,botania@r1.10-364,enderiopowertools@5.3.72,enderio@5.3.72,extrautils2@1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,patchouli@1.0-23.6,autoreglib@1.3-32,backpacked@1.4.2,enderioinvpanel@5.3.72,tfspellpack@1.1.0,FML@8.0.99.99,tombstone@4.7.5,structurize@1.12.2-0.10.277-RELEASE,enderiobase@5.3.72,enderiointegrationtic@5.3.72,enderioconduitsappliedenergistics@5.3.72,mekanismtools@1.12.2-9.8.3.390,minecolonies@1.12.2-0.11.841-ALPHA,appleskin@1.0.14,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,enderioconduitsopencomputers@5.3.72,bigreactors@1.12.2-0.4.5.68,foamfix@@VERSION@,byg@1.7.1,bettermineshafts@1.12.2-2.2.1,geckolib3@3.0.30
+[03:07:20] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[03:07:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:07:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: jysusxd123[/127.77.190.84:42009] logged in with entity id 188049 at (-255.02548417792505, 61.09374423485217, 312.48701163047764)
+[03:07:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jysusxd123 joined the game
+[03:07:25] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to jysusxd123
+[03:07:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:07:25] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for jysusxd123
+[03:07:25] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for jysusxd123
+[03:07:25] [Server thread/INFO] [ebwizardry]: Synchronising config settings for jysusxd123
+[03:07:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for jysusxd123
+[03:07:25] [Server thread/INFO] [Waila]: Player EntityPlayerMP['jysusxd123'/188049, l='world', x=-255.03, y=61.09, z=312.49] connected. Sending ping
+[03:07:25] [Server thread/INFO] [EnderCore]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[03:07:25] [Server thread/INFO] [Mekanism]: Sent config to 'jysusxd123.'
+[03:07:25] [Server thread/INFO] [XAT]: Syncing Config to jysusxd123
+[03:07:25] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for jysusxd123...
+[03:07:25] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to jysusxd123
+[03:07:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: jysusxd123 lost connection: Disconnected
+[03:07:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jysusxd123 left the game
+[03:09:09] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[03:09:09] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 77 mods : astralsorcery@1.10.27,enderiointegrationforestry@5.3.72,cucumber@1.1.3,reachfix@1.1.3,jee@1.0.8,ebwizardry@4.3.14,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,endercore@1.12.2-0.5.78,ironjetpacks@1.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,appliedenergistics2@rv6-stable-7,artifacts@1.12.2-1.2.4,enderiointegrationticlate@5.3.72,betteranimalsplus@9.0.1,bookshelf@2.3.590,harvestcraft@1.12.2zb,foamfixcore@7.7.4,randompatches@1.12.2-1.22.1.10,xat@0.32.5,betterbuilderswands@0.13.2,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,enderioconduitsrefinedstorage@5.3.72,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,carryon@1.12.3,forge@14.23.5.2860,mysticalagradditions@1.3.2,bloodmagic@1.12.2-2.4.3-105,enderioconduits@5.3.72,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,mysticalagriculture@1.7.5,zerocore@1.12.2-0.1.2.9,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,tcomplement@1.12.2-0.4.3,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,torchmaster@1.8.5.0,powersuits@1.1.048,enderiomachines@5.3.72,jehc@1.7.2,immersiveengineering@0.12-98,baubles@1.5.2,ironfurnaces@1.3.5,numina@1.0,botania@r1.10-364,enderiopowertools@5.3.72,enderio@5.3.72,extrautils2@1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,patchouli@1.0-23.6,autoreglib@1.3-32,backpacked@1.4.2,enderioinvpanel@5.3.72,tfspellpack@1.1.0,FML@8.0.99.99,tombstone@4.7.5,structurize@1.12.2-0.10.277-RELEASE,enderiobase@5.3.72,enderiointegrationtic@5.3.72,enderioconduitsappliedenergistics@5.3.72,mekanismtools@1.12.2-9.8.3.390,minecolonies@1.12.2-0.11.841-ALPHA,appleskin@1.0.14,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,enderioconduitsopencomputers@5.3.72,bigreactors@1.12.2-0.4.5.68,foamfix@@VERSION@,byg@1.7.1,bettermineshafts@1.12.2-2.2.1,geckolib3@3.0.30
+[03:09:09] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[03:09:14] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:09:14] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: jysusxd123[/127.77.190.84:46853] logged in with entity id 189978 at (-265.92283248000336, 63.0, 318.0742038943418)
+[03:09:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jysusxd123 joined the game
+[03:09:14] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to jysusxd123
+[03:09:14] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for jysusxd123
+[03:09:14] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for jysusxd123
+[03:09:14] [Server thread/INFO] [ebwizardry]: Synchronising config settings for jysusxd123
+[03:09:14] [Server thread/INFO] [ebwizardry]: Synchronising advancements for jysusxd123
+[03:09:14] [Server thread/INFO] [Waila]: Player EntityPlayerMP['jysusxd123'/189978, l='world', x=-265.92, y=63.00, z=318.07] connected. Sending ping
+[03:09:14] [Server thread/INFO] [EnderCore]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[03:09:14] [Server thread/INFO] [Mekanism]: Sent config to 'jysusxd123.'
+[03:09:14] [Server thread/INFO] [XAT]: Syncing Config to jysusxd123
+[03:09:14] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for jysusxd123...
+[03:09:14] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to jysusxd123
+[03:09:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Guiso_de_Posho burned to death
+[03:09:36] [Server thread/INFO] [tombstone]: The last known grave of Guiso_de_Posho is at location [name:Last Grave, x:-253, y:66, z:181] in the dimension 0
+[03:09:36] [Server thread/INFO] [tombstone]: Guiso_de_Posho has successfully been saved
+[03:09:38] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Guiso_de_Posho
+[03:11:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jysusxd123 has made the advancement [Unknown Technology]
+[03:11:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for jysusxd123
