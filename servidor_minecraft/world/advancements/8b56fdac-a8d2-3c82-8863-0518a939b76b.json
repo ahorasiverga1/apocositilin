@@ -413,6 +413,13 @@
     },
     "done": true
   },
+  "enderioconduits:root": {
+    "criteria": {
+      "inv_changed-enderio:gravel": "2025-06-19 02:32:41 +0000",
+      "inv_changed-enderio:sand": "2025-06-19 02:24:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:25:41 +0000"
@@ -515,6 +522,13 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-19 02:26:47 +0000",
+      "iron_leggings": "2025-06-19 02:26:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:25:41 +0000"
@@ -578,6 +592,12 @@
   "tombstone:tutorial/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-06-19 02:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-19 02:31:44 +0000"
     },
     "done": true
   },
@@ -667,6 +687,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2025-06-19 02:27:42 +0000",
+      "zombie": "2025-06-19 02:27:53 +0000",
+      "spider": "2025-06-19 02:31:20 +0000",
       "creeper": "2025-06-19 02:00:39 +0000",
       "enderman": "2025-06-19 02:19:04 +0000"
     },
@@ -834,6 +857,12 @@
     },
     "done": true
   },
+  "ebwizardry:crystal": {
+    "criteria": {
+      "criteria_0": "2025-06-19 02:20:18 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
       "has_grave_dust": "2025-06-18 01:32:31 +0000"
@@ -903,6 +932,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-19 02:27:41 +0000"
     },
     "done": true
   },
@@ -1062,6 +1097,12 @@
     },
     "done": true
   },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2025-06-19 02:20:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:25:41 +0000"
@@ -1071,6 +1112,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-19 02:20:14 +0000"
     },
     "done": true
   },
@@ -1310,6 +1357,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2025-06-19 02:28:13 +0000"
     },
     "done": true
   },
@@ -1726,6 +1779,13 @@
       "has_the_recipe": "2025-06-18 01:25:41 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-06-19 02:26:08 +0000",
+      "cooked_chicken": "2025-06-19 02:27:23 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
