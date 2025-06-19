@@ -492,6 +492,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-06-19 23:26:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:25:41 +0000"
@@ -1450,6 +1456,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/throwables": {
+    "criteria": {
+      "criteria_0": "2025-06-19 23:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:25:41 +0000"
@@ -2162,6 +2174,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:25:41 +0000"
+    },
+    "done": true
+  },
+  "enderio:gears/g1_wooden_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2025-06-19 23:30:56 +0000"
     },
     "done": true
   },
