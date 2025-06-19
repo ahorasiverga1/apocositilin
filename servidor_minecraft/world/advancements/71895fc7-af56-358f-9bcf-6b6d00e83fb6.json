@@ -91,6 +91,7 @@
   },
   "ebwizardry:all_spells": {
     "criteria": {
+      "mine": "2025-06-19 03:42:18 +0000",
       "magic_missile": "2025-06-19 03:40:15 +0000"
     },
     "done": false
@@ -311,6 +312,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-06-19 03:26:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-06-19 03:49:10 +0000"
     },
     "done": true
   },
@@ -537,6 +544,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-06-19 01:48:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-06-19 03:49:08 +0000"
     },
     "done": true
   },
@@ -792,6 +805,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-06-19 03:49:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2025-06-19 03:18:47 +0000",
@@ -840,6 +859,12 @@
   "cfm:root": {
     "criteria": {
       "tick": "2025-06-19 01:47:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-19 03:49:08 +0000"
     },
     "done": true
   },
