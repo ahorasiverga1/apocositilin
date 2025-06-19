@@ -2160,3 +2160,15 @@ java.nio.file.NoSuchFileException: /assets/structurize/schematics
 [21:26:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [21:32:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Creative Mode]
 [21:32:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Survival Mode]
+[21:51:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[21:51:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[21:51:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:51:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:51:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[21:51:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[21:51:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[21:51:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
+[21:51:57] [Server thread/INFO] [FML]: Unloading dimension 0
+[21:51:57] [Server thread/INFO] [FML]: Unloading dimension -9999
+[21:51:57] [Server thread/INFO] [FML]: Unloading dimension 2
+[21:51:57] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
