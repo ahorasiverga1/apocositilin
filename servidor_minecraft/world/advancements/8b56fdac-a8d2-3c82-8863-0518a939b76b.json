@@ -601,6 +601,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-19 23:50:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_the_recipe": "2025-06-18 01:25:41 +0000"
@@ -2474,6 +2480,7 @@
   "ebwizardry:all_spells": {
     "criteria": {
       "mine": "2025-06-19 03:41:26 +0000",
+      "magic_missile": "2025-06-19 23:57:05 +0000",
       "evade": "2025-06-19 03:28:34 +0000"
     },
     "done": false

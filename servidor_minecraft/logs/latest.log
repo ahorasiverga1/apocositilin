@@ -2413,3 +2413,60 @@ java.nio.file.NoSuchFileException: /assets/structurize/schematics
 [23:37:13] [Server thread/INFO] [XAT]: Syncing Config to zaide523
 [23:37:13] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for zaide523...
 [23:37:13] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to zaide523
+[23:39:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: zaide523 lost connection: Disconnected
+[23:39:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zaide523 left the game
+[23:42:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SiSoyAPA moved wrongly!
+[23:43:04] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[23:44:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SiSoyAPA moved wrongly!
+[23:44:07] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[23:50:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SiSoyAPA has made the advancement [Sweet dreams]
+[23:50:49] [Server thread/INFO] [ebwizardry]: Synchronising advancements for SiSoyAPA
+[23:53:37] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[23:53:37] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 77 mods : astralsorcery@1.10.27,enderiointegrationforestry@5.3.72,cucumber@1.1.3,reachfix@1.1.3,jee@1.0.8,ebwizardry@4.3.14,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,endercore@1.12.2-0.5.78,ironjetpacks@1.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,appliedenergistics2@rv6-stable-7,artifacts@1.12.2-1.2.4,enderiointegrationticlate@5.3.72,betteranimalsplus@9.0.1,bookshelf@2.3.590,harvestcraft@1.12.2zb,foamfixcore@7.7.4,randompatches@1.12.2-1.22.1.10,xat@0.32.5,betterbuilderswands@0.13.2,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,enderioconduitsrefinedstorage@5.3.72,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,carryon@1.12.3,forge@14.23.5.2860,mysticalagradditions@1.3.2,bloodmagic@1.12.2-2.4.3-105,enderioconduits@5.3.72,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,mysticalagriculture@1.7.5,zerocore@1.12.2-0.1.2.9,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,tcomplement@1.12.2-0.4.3,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,torchmaster@1.8.5.0,powersuits@1.1.048,enderiomachines@5.3.72,jehc@1.7.2,immersiveengineering@0.12-98,baubles@1.5.2,ironfurnaces@1.3.5,numina@1.0,botania@r1.10-364,enderiopowertools@5.3.72,enderio@5.3.72,extrautils2@1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,patchouli@1.0-23.6,autoreglib@1.3-32,backpacked@1.4.2,enderioinvpanel@5.3.72,tfspellpack@1.1.0,FML@8.0.99.99,tombstone@4.7.5,structurize@1.12.2-0.10.277-RELEASE,enderiobase@5.3.72,enderiointegrationtic@5.3.72,enderioconduitsappliedenergistics@5.3.72,mekanismtools@1.12.2-9.8.3.390,minecolonies@1.12.2-0.11.841-ALPHA,appleskin@1.0.14,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,enderioconduitsopencomputers@5.3.72,bigreactors@1.12.2-0.4.5.68,foamfix@@VERSION@,byg@1.7.1,bettermineshafts@1.12.2-2.2.1,geckolib3@3.0.30
+[23:53:37] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[23:53:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:53:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: zaide523[/127.93.234.54:50879] logged in with entity id 23834 at (-91.69999998807907, 98.0, 781.3000000119209)
+[23:53:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zaide523 joined the game
+[23:53:42] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to zaide523
+[23:53:42] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for zaide523
+[23:53:42] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for zaide523
+[23:53:42] [Server thread/INFO] [ebwizardry]: Synchronising config settings for zaide523
+[23:53:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for zaide523
+[23:53:42] [Server thread/INFO] [Waila]: Player EntityPlayerMP['zaide523'/23834, l='world', x=-91.70, y=98.00, z=781.30] connected. Sending ping
+[23:53:42] [Server thread/INFO] [EnderCore]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[23:53:42] [Server thread/INFO] [Mekanism]: Sent config to 'zaide523.'
+[23:53:42] [Server thread/INFO] [XAT]: Syncing Config to zaide523
+[23:53:42] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for zaide523...
+[23:53:42] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to zaide523
+[23:55:15] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[23:55:15] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 77 mods : astralsorcery@1.10.27,enderiointegrationforestry@5.3.72,cucumber@1.1.3,reachfix@1.1.3,jee@1.0.8,ebwizardry@4.3.14,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,endercore@1.12.2-0.5.78,ironjetpacks@1.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,appliedenergistics2@rv6-stable-7,artifacts@1.12.2-1.2.4,enderiointegrationticlate@5.3.72,betteranimalsplus@9.0.1,bookshelf@2.3.590,harvestcraft@1.12.2zb,foamfixcore@7.7.4,randompatches@1.12.2-1.22.1.10,xat@0.32.5,betterbuilderswands@0.13.2,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,enderioconduitsrefinedstorage@5.3.72,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,carryon@1.12.3,forge@14.23.5.2860,mysticalagradditions@1.3.2,bloodmagic@1.12.2-2.4.3-105,enderioconduits@5.3.72,twilightforest@3.11.1021,ironchest@1.12.2-7.0.67.844,mysticalagriculture@1.7.5,zerocore@1.12.2-0.1.2.9,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,tcomplement@1.12.2-0.4.3,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,torchmaster@1.8.5.0,powersuits@1.1.048,enderiomachines@5.3.72,jehc@1.7.2,immersiveengineering@0.12-98,baubles@1.5.2,ironfurnaces@1.3.5,numina@1.0,botania@r1.10-364,enderiopowertools@5.3.72,enderio@5.3.72,extrautils2@1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,patchouli@1.0-23.6,autoreglib@1.3-32,backpacked@1.4.2,enderioinvpanel@5.3.72,tfspellpack@1.1.0,FML@8.0.99.99,tombstone@4.7.5,structurize@1.12.2-0.10.277-RELEASE,enderiobase@5.3.72,enderiointegrationtic@5.3.72,enderioconduitsappliedenergistics@5.3.72,mekanismtools@1.12.2-9.8.3.390,minecolonies@1.12.2-0.11.841-ALPHA,appleskin@1.0.14,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,enderioconduitsopencomputers@5.3.72,bigreactors@1.12.2-0.4.5.68,foamfix@@VERSION@,byg@1.7.1,bettermineshafts@1.12.2-2.2.1,geckolib3@3.0.30
+[23:55:15] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[23:55:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:55:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: moltgames[/127.85.176.247:51633] logged in with entity id 26971 at (-94.53242000175374, 77.0, 2277.6050512742186)
+[23:55:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames joined the game
+[23:55:21] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to moltgames
+[23:55:21] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for moltgames
+[23:55:21] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for moltgames
+[23:55:21] [Server thread/INFO] [ebwizardry]: Synchronising config settings for moltgames
+[23:55:21] [Server thread/INFO] [ebwizardry]: Synchronising advancements for moltgames
+[23:55:21] [Server thread/INFO] [Waila]: Player EntityPlayerMP['moltgames'/26971, l='world', x=-94.53, y=77.00, z=2277.61] connected. Sending ping
+[23:55:21] [Server thread/INFO] [EnderCore]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[23:55:21] [Server thread/INFO] [Mekanism]: Sent config to 'moltgames.'
+[23:55:21] [Server thread/INFO] [XAT]: Syncing Config to moltgames
+[23:55:21] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for moltgames...
+[23:55:21] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to moltgames
+[23:55:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zaide523> hasta el pincho
+[23:55:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> bajale los graficos del minecraft ps
+[23:55:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> o sera tu inter
+[23:55:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Teleported moltgames to SiSoyAPA]
+[23:55:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:56:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Teleported moltgames to SiSoyAPA]
+[23:56:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Teleported moltgames to SiSoyAPA]
+[23:56:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Teleported moltgames to SiSoyAPA]
+[23:56:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for moltgames
+[23:56:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames has made the advancement [A Strange Grave's Dust]
+[23:56:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for moltgames
+[23:57:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Teleported moltgames to SiSoyAPA]
+[23:57:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zaide523> ahahahha ya se
+[23:57:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:58:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zaide523> esta descargando sus chunks que an recorrido
