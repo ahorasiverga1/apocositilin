@@ -121,3 +121,5 @@
 [01:09:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames has made the advancement [Diamonds!]
 [01:09:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for moltgames
 [01:18:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Spectator Mode]
+[01:22:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Survival Mode]
+[01:22:58] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
