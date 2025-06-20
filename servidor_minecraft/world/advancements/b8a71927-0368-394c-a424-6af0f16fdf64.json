@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-20 00:25:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-06-17 23:04:52 +0000"
@@ -619,6 +625,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:animal_head_first": {
+    "criteria": {
+      "head10": "2025-06-20 00:18:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-06-17 23:04:52 +0000"
@@ -651,6 +663,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2025-06-20 00:26:00 +0000",
       "skeleton": "2025-06-18 22:04:33 +0000",
       "zombie": "2025-06-18 20:56:46 +0000",
       "spider": "2025-06-18 20:56:45 +0000",
@@ -1413,6 +1426,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-06-20 00:25:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_the_recipe": "2025-06-17 23:04:52 +0000"
@@ -1850,6 +1869,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:animal_head_variants": {
+    "criteria": {
+      "head10": "2025-06-20 00:18:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_the_recipe": "2025-06-17 23:04:52 +0000"
@@ -1949,6 +1974,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_the_recipe": "2025-06-17 23:04:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-20 00:25:56 +0000"
     },
     "done": true
   },
@@ -2131,6 +2162,12 @@
       "has_the_recipe": "2025-06-17 23:04:52 +0000"
     },
     "done": true
+  },
+  "betteranimalsplus:animal_head_all": {
+    "criteria": {
+      "head10": "2025-06-20 00:18:44 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
@@ -2744,6 +2781,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_the_recipe": "2025-06-17 23:04:52 +0000"
+    },
+    "done": true
+  },
+  "enderio:root": {
+    "criteria": {
+      "location": "2025-06-20 00:20:08 +0000"
     },
     "done": true
   },
