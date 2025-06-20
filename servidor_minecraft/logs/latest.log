@@ -123,3 +123,12 @@
 [01:18:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Spectator Mode]
 [01:22:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Survival Mode]
 [01:22:58] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[01:33:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Spectator Mode]
+[01:33:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Survival Mode]
+[01:42:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames has made the advancement [Enchanter]
+[01:42:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for moltgames
+[01:43:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames has made the advancement [Suit Up]
+[01:43:18] [Server thread/INFO] [ebwizardry]: Synchronising advancements for moltgames
+[01:45:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Creative Mode]
+[01:45:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Creative Mode]
+[01:45:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Survival Mode]
