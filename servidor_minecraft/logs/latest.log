@@ -71,3 +71,9 @@
 [00:25:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for moltgames
 [00:25:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames has made the advancement [Knowledge raises the soul]
 [00:25:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for moltgames
+[00:30:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SiSoyAPA lost connection: Disconnected
+[00:30:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SiSoyAPA left the game
+[00:34:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Creative Mode]
+[00:34:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Survival Mode]
+[00:35:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Spectator Mode]
+[00:35:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Survival Mode]
