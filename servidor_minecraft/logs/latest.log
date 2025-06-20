@@ -132,3 +132,20 @@
 [01:45:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Creative Mode]
 [01:45:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Creative Mode]
 [01:45:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Survival Mode]
+[01:52:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Spectator Mode]
+[01:52:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Spectator Mode]
+[01:52:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Creative Mode]
+[01:53:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Set own game mode to Survival Mode]
+[01:55:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: moltgames lost connection: Disconnected
+[01:55:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames left the game
+[01:55:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[01:55:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:55:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:55:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:55:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[01:55:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[01:55:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
+[01:55:41] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:55:41] [Server thread/INFO] [FML]: Unloading dimension -9999
+[01:55:41] [Server thread/INFO] [FML]: Unloading dimension 2
+[01:55:41] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
